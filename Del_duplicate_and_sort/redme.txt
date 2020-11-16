@@ -1,0 +1,8 @@
+# Title: Del_duplicate_and_sort
+# Date: 04.2020
+# Python 3.x
+
+# Project was created as a task to pass the course during studies.
+# Program has to find and delete duplicates in string and sort it 
+
+# Gracjan Buczek

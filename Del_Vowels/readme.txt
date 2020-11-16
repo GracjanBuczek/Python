@@ -1,0 +1,7 @@
+# Title: Simple_Dice_Generator
+# Date: 04.2020
+# Python 3.x
+
+# Project was created as a task to pass the course during studies.
+
+# Gracjan Buczek

@@ -1,0 +1,9 @@
+# Title: Simple_Time_Calendar
+# Date: 04.2020
+# Python 3.x
+
+# Project was created as a task to pass the course during studies.
+# Task content is avaliable at main folder of this task
+# >.../Simple_Time_Calendar/TaskContent.png
+
+# Gracjan Buczek

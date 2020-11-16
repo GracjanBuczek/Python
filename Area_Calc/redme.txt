@@ -1,0 +1,8 @@
+# Title: Area_Calc
+# Date: 10.2020
+# Python 3.x
+
+# Project was created as a task in Udemy course.
+# I added while loop and exit option (as an function)
+
+# Gracjan Buczek
